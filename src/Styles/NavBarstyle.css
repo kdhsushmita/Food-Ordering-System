@@ -1,0 +1,28 @@
+.navBar {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  background-color: #121619;
+}
+.nav_logo {
+  width: 80px;
+}
+.leftSide {
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+  flex: 50%;
+  margin-left: 100px;
+}
+.rightSide {
+  display: flex;
+  align-items: center;
+  flex: 50%;
+  justify-content: center;
+}
+.rightSide a {
+  color: white;
+  margin: 20px;
+  text-decoration: none;
+}

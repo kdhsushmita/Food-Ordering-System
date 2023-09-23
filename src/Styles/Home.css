@@ -1,0 +1,21 @@
+.home {
+  display: flex;
+  justify-content: center;
+  align-items: left;
+  width: 100%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  flex-direction: column;
+}
+.homeContainer {
+  margin-left: 50px;
+}
+.homeContainer h1 {
+  justify-content: center;
+  align-items: center;
+  font-size: 90px;
+  font-weight: 50px;
+}
+.homeContainer p {
+  font-size: 40px;
+  font-weight: lighter;
+}
